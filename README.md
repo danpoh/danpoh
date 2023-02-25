@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/3d/b6/e3/3db6e3bdfe7f86a1fbe8d8cc159169e3.jpg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 1200px; width: 408px; height: 136px; margin: 0px;" alt="46 Blue headers ideas | twitter header photos, twitter header aesthetic,  twitter header" jsname="kn3ccd">
+<img src="https://i.pinimg.com/originals/3d/b6/e3/3db6e3bdfe7f86a1fbe8d8cc159169e3.jpg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="width: 1200px; height: 136px; margin: 0px;" alt="46 Blue headers ideas | twitter header photos, twitter header aesthetic,  twitter header" jsname="kn3ccd">
 <h1 align="center">Hi 👋, I'm Daniel Oh</h1>
 <h3 align="center">Aspiring engineer. Specifically trying to break into the game industry!</h3>
 
