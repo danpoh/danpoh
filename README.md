@@ -5,7 +5,7 @@
 <img src="https://media3.giphy.com/media/pzdFxSjxXbcJmKrdop/giphy.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" align="right" style="max-width: 480px; width: 386px; height: 386px; margin: 0px;" alt="Penguin-waddle GIFs - Get the best GIF on GIPHY" jsname="kn3ccd">
 - 🔭 I’m currently working on **to create my first game**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **anything! Willing to learn!**
 
